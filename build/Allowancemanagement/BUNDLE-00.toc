@@ -1,0 +1,3 @@
+([('Allowancemanagement',
+   '/Users/xtom/Downloads/A2/w.html/allowancemanagement/dist/Allowancemanagement',
+   'EXECUTABLE')],)
